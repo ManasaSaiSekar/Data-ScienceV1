@@ -1,2 +1,2 @@
-# Data-ScienceV1
+# DataScienceCoursera
 Data Visualizations 
